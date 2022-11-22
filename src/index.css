@@ -7,6 +7,10 @@ body {
   padding: 50px;
 }
 
-p{
+p {
   color: red;
+}
+
+button {
+  background-color: #85c88a;
 }
